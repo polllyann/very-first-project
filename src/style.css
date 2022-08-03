@@ -49,6 +49,7 @@ button:hover {
 
 .linkDecor {
   text-decoration: none;
+  color: #5c5548;
 }
 
 .linkDecor:hover {
